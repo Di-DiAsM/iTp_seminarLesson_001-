@@ -30,4 +30,3 @@ int Sqr(int c)
     int result = c * c;
     return result;
 }
-
