@@ -17,7 +17,7 @@ int num1 = ReadInt("Введите первое число: ");
 int num2 = ReadInt("Введите второе сисло: ");
 
 
- int remeinderOfDivision = num1 % num2;
+int remeinderOfDivision = num1 % num2;
 
 if (remeinderOfDivision == 0)
 {
